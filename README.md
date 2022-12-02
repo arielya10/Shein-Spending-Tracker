@@ -8,5 +8,5 @@ The script scans all the orders and returns the number of orders, and money spen
 -     pip install -r requirements.txt
 
 ## Usage guide
-     python shein.py -u user@mail.com -p password123  
+     python scan.py -u user@mail.com -p password123  
 
