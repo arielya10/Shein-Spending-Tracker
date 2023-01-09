@@ -1,4 +1,4 @@
-# Shein Order History
+# Shein Spending Tracker
 
 This script automates the process of logging into a user's Shein account, changing the website language to English, and retrieving information about their order history. It shows the total amount of money spent on Shein and the number of items bought in the terminal.
 
